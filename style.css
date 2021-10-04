@@ -1,0 +1,18 @@
+.btn-atomic-tangerine {
+    background: #F3976C;
+    color: #FFFFFF;
+}
+.btn-rd {
+    border-radius: 40px;
+}
+.btn {
+    cursor: pointer;
+    padding: 6px 12px;
+    text-decoration: none;
+}
+.c-black {
+    color: black;
+}
+.container {
+    margin-top: 20px;
+}
